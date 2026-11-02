@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Egg Hopper",
+    "slug": "steal-egg-hopper",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.example.egghopper",
+      "infoPlist": {
+        "LSApplicationQueriesSchemes": ["roblox"]
+      }
+    },
+    "android": {
+      "package": "com.example.egghopper"
+    }
+  }
+}
